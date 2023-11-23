@@ -1,0 +1,28 @@
+/*
+    BODY
+*/
+
+body{
+    padding:0;
+    margin:0;
+    user-select:none;
+    background-color:black;
+    overflow:hidden;
+    font-family:Arial;
+    overflow: hidden;
+    height: 100%;
+    font-family: 'Noto Sans';
+}
+
+canvas {
+    width: 100vw;
+    height: 100vh;
+}
+
+#enter {
+ position: absolute;
+left: 0;
+top: 0;
+width: 100px;
+height: 50px;
+}
